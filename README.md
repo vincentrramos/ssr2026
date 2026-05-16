@@ -157,9 +157,13 @@ do 4_analysis.do
 
 Some appendix tables and figures are currently commented out in `4_analysis.do`. Uncomment those blocks to reproduce the corresponding appendix materials.
 
-## Citation and licence
+## License and Citation
 
-Please cite the associated article when using this replication package. 
+The replication code in this repository is released under the MIT License. See the `LICENSE` file for details.
+
+The license applies only to the code and documentation in this repository. The underlying survey data are not redistributed here and remain subject to the access conditions and terms of use of the original data provider.
+
+Please cite the associated article when using this replication package:
 
 Ramos, V. J., & Berrington, A. (2026). Employment stability and social origin: Cumulative advantages in young adults’ homeownership and financial asset accumulation. *Social Science Research, 137*, 103369.
 
